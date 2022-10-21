@@ -4,11 +4,13 @@
 <img src="https://user-images.githubusercontent.com/102473837/197252286-01dfb185-f25a-42ee-adac-491e3f9713ec.png" alt="wallpaper" style="width:600px;"/>
 
 # The Best way to browse these wallpapers
-You need to have [git](https://git-scm.com/) installed for this
+- You need to have [git](https://git-scm.com/) installed for this
 
 ```bash
 git clone https://github.com/its-ag/wallpapers.git
 ```
+
+- Give it a star if you like it ⭐
 
 ## 👉 Got some cool wallpapers ? make a [PR](https://github.com/its-ag/wallpapers/pulls), I'll merge it 👌
 
@@ -40,3 +42,8 @@ git clone https://github.com/its-ag/wallpapers.git
 
 </details>
 
+
+# Author
+
+- [Arunava](https://arunava.tech)
+- [Twitter](https://twitter.com/ag_arunava)
