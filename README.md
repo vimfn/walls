@@ -13,6 +13,7 @@ git clone https://github.com/its-ag/wallpapers.git
 - Give it a star if you like it ⭐
 
 ## 👉 Got some cool wallpapers ? make a [PR](https://github.com/its-ag/wallpapers/pulls), I'll merge it 👌
+- Here is an easy guide on "how to create a PR ?" -> [Visit](https://dev.to/lukegarrigan/the-simplest-way-to-make-a-pull-request-2h61)
 
 ## Few More glimpses 🦩 of wallpapers in this repo
  
