@@ -10,6 +10,7 @@ You need to have [git](https://git-scm.com/) installed for this
 git clone https://github.com/its-ag/wallpapers.git
 ```
 
+## 👉 Got some cool wallpapers ? make a [PR](https://github.com/its-ag/wallpapers/pulls), I'll merge it 👌
 
 ## Few More glimpses 🦩 of wallpapers in this repo
  
