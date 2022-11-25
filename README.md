@@ -1,16 +1,24 @@
-# The wallpaper I am using right now is 👇
+# The wallpaper I am using right now is
 
+<p align="center">
 
 <img src="https://user-images.githubusercontent.com/102473837/197252286-01dfb185-f25a-42ee-adac-491e3f9713ec.png" alt="wallpaper" style="width:600px;"/>
+<p/>
 
-# The Best way to browse these wallpapers
+# The Best way to browse these wallpapers 
+
+### 🚀🚀 https://walls.arunava.tech/ 
+(I need to work on the slow loading speed, help me if you can)
+
+or the fastest way,
+
 - You need to have [git](https://git-scm.com/) installed for this
 
 ```bash
 git clone https://github.com/its-ag/wallpapers.git
 ```
 
-- Give it a star if you like it ⭐
+- Give a star if you like it ⭐
 
 ## Contributions
 
