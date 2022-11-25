@@ -12,7 +12,7 @@ echo "<!DOCTYPE html>
 </head>
 
 <body>
-  <h1>Wallpapers ~(˘▾˘~)~ </h1>" > ./index.html
+  <h1>Wallpapers ~(˘▾˘)~ </h1>" > ./index.html
 
 color=1
 for subdir in ./wallpapers/*
