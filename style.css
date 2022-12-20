@@ -42,6 +42,17 @@ h2 {
   text-decoration: none;
 }
 
+a {
+  color: #ebdbb2;
+}
+
+.showmore{
+  text-align: center;
+  background-color: #ebdbb2;
+  color: #282828;
+}
+
+
 #s1 {
   background-color: #d65d0e;
 }
@@ -98,7 +109,7 @@ img {
   /* padding: 5px; */
 }
 img:hover {
-  transform: scale(5); 
+  transform: scale(3); 
   border: none;
   box-shadow: 5px 4px 10px #000000;
   /* padding: none; */
